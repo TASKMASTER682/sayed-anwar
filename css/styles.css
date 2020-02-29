@@ -12,6 +12,9 @@ body{color:#40514E;
   padding-top: 100px;
   color: #66BFBF;
 }
+.profile{
+  border-radius=100%;
+}
 h1{
     color:#66BFBF;
   font-size: 5.625rem;
